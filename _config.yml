@@ -1,0 +1,19 @@
+title: <p align="center"> Hien Le, BSc (Hons) </p>
+logo: "/images/?raw=true"
+description:
+  <p align="left">
+  <a href="https://www.linkedin.com/in/h11le/">LinkedIn</a> |
+  <a href="https://github.com/h11le">Github</a> 
+  </p>
+  
+  <p align="left">
+  Welcome! 
+  
+  <br><br>
+  </p>
+  
+
+theme: jekyll-theme-minimal
+show_downloads: true
+timezone: Canada/Toronto
+future: true
