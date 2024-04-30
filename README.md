@@ -1,6 +1,5 @@
 # Portfolio
 
-<br>
 
 ## ABOUT ME:
 
