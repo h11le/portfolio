@@ -32,19 +32,13 @@ Features immersive gameplay mechanics that allow players to hone their ninja ski
 
 *- Presence in Dean’s List of Faculty of Science: 2021, 2022, 2023, and 2024*
 
-<br>
-
 **Renewable scholarships** | Issued by TMU - Toronto Metropolitan University
 
 *- Recognizing academic excellence in maintaining the CGPA to be above 3.5*
 
-<br>
-
 **Certificate of Distinction** | Issued by University of Waterloo · Dec 2019
 
 *- Ranked in the top 25% of contestants in the mathematic Fermat Contest in 2019*
-
-<br>
 
 **Certificate of Achievement** | Issued by University of Waterloo · Dec 2019
 
