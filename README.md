@@ -13,7 +13,7 @@ I am actively seeking full-time opportunities in the field of data science or re
 
 ## RESUME
 
-[My currently updated resume](https://h11le.github.io/portfolio/pdfs/HienLe-Resume.pdf)
+[My currently updated resume](https://h11le.github.io/portfolio/pdf/HienLe-Resume.pdf)
 
 ## PROJECTS
 
