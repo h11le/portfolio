@@ -3,7 +3,7 @@
 
 ## ABOUT ME:
 
-I am currently a **Data Analytics and Database Specialist** at [**Covenant House Toronto**](https://covenanthousetoronto.ca/), bringing my data analysis skills to support meaningful work in the nonprofit sector. 
+I am currently a **Data Analysis and Database Specialist** at [**Covenant House Toronto**](https://covenanthousetoronto.ca/), bringing my data analysis skills to support meaningful work in the nonprofit sector. 
 
 Previously, as a **Computer Science** student at [**TMU - Toronto Metropolitan University**](https://www.torontomu.ca/) with a focus on data mining and processing, I have developed a strong foundation in machine learning and data analysis.
 
